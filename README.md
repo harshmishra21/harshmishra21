@@ -59,11 +59,6 @@ guest@harsh-dev:~$ ./run --mode=hacker
 ![](https://img.shields.io/badge/LOCATION-Mumbai%2C%20India-A855F7?style=for-the-badge&labelColor=1a1a2e)
 ![](https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20Cloud-F59E0B?style=for-the-badge&labelColor=1a1a2e)
 
-<br>
-
-<a href="https://github.com/harshmishra21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/harsh-mishra-0352a9321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:harshmishra5906@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br>
 
