@@ -218,8 +218,6 @@ Healthcare management system — patient records, appointment scheduling, servic
 
 <br>
 
-> 🟢 **100% Commits** — Building in public, one commit at a time.
-
 </div>
 
 ---
