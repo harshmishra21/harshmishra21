@@ -269,7 +269,6 @@ I'm always excited to collaborate on:
 
 ---
 
-### 💡 Words That Drive Me
 
 <p align="center">
   <img
