@@ -278,20 +278,13 @@ I'm always excited to collaborate on:
 
 ### 💡 Words That Drive Me
 
-<div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200">
-  <rect width="860" height="200" rx="12" fill="#161B22"/>
-  <text x="28" y="58" font-family="Georgia, serif" font-size="52" font-style="italic" fill="#00C9A7" opacity="0.9">"</text>
-  <text x="28" y="72" font-family="Georgia, serif" font-size="19" font-style="italic" fill="#00C9A7">The future is being built today. Whatever you're doing,</text>
-  <text x="28" y="100" font-family="Georgia, serif" font-size="19" font-style="italic" fill="#00C9A7">do it with the hunger to make it 10x better.</text>
-  <text x="705" y="100" font-family="Georgia, serif" font-size="28" font-style="italic" fill="#00C9A7">"</text>
-  <text x="820" y="158" font-family="Georgia, serif" font-size="17" font-style="italic" font-weight="600" fill="#7C6FCD" text-anchor="end">- Sundar Pichai</text>
-  <text x="820" y="178" font-family="Arial, sans-serif" font-size="13" fill="#7C6FCD" text-anchor="end" opacity="0.8">CEO, Google &amp; Alphabet</text>
-</svg>
-
-</div>
-
+<p align="center">
+  <img
+    src="./assets/quote-card.png"
+    alt="Words That Drive Me"
+    width="100%"
+  />
+</p>
 ---
 
 ### 🙏 Thank You for Visiting!
