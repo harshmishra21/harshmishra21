@@ -276,26 +276,6 @@ I'm always excited to collaborate on:
 
 ---
 
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
-
-</div>
-
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
-
-</div>
-
----
-
 ### 💡 Words That Drive Me
 
 <div align="center">
