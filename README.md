@@ -200,8 +200,6 @@ Healthcare management system — patient records, appointment scheduling, servic
   <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/harshmishra21/harshmishra21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚙️ **Setup required:** Add a GitHub Action to auto-generate the snake SVG. Create `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk) for the workflow config.
-
 </div>
 
 ---
