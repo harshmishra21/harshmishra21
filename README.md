@@ -196,6 +196,9 @@ Healthcare management system — patient records, appointment scheduling, servic
 </picture>
 
 
+![GitHub Snake](https://raw.githubusercontent.com/harshmishra21/harshmishra21/output/github-snake-dark.svg)
+
+
 </div>
 
 ---
