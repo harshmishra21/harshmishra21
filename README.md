@@ -167,19 +167,6 @@ Healthcare management system — patient records, appointment scheduling, servic
 
 ---
 
-### Experience
-
-**Student Ambassador & Intern — LetsUpgrade** *(Dec 2024 – Feb 2025)*
-Promoted full stack & AI learning programs, mentored students through onboarding/workshops, and completed a structured internship focused on modern full stack development practices.
-
----
-
-### Certifications & Workshops
-
-`AI & ChatGPT Tools — be10x` · `Bharat XR (AR/VR/XR) — Arena XR` · `LetsUpgrade Full Stack & AI Programs`
-
----
-
 ### GitHub Analytics
 
 <div align="center">
