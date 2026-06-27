@@ -274,6 +274,7 @@ I'm always excited to collaborate on:
 <p align="center">
   <img
     src="./assets/quote-card.png"
+    alt="Words That Drive Me"
     width="100%"
   />
 </p>
