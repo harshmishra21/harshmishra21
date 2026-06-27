@@ -277,7 +277,10 @@ I'm always excited to collaborate on:
     alt="Words That Drive Me"
     width="100%"
   />
-</p> 
+</p>
+
+--- 
+
 
 ### 🙏 Thank You for Visiting!
 
