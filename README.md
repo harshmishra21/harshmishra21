@@ -172,7 +172,7 @@ Healthcare management system — patient records, appointment scheduling, servic
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=harshmishra21&theme=tokyonight&hide_border=true" width="80%" />
+<img width="80%" src="https://streak-stats.demolab.com?user=harshmishra21&theme=tokyonight&hide_border=true&v=2"/>
 
 </div>
 
