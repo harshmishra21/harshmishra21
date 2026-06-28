@@ -166,16 +166,15 @@ Healthcare management system — patient records, appointment scheduling, servic
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=harshmishra21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshmishra21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="49%" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="49%" />
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=harshmishra21&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=harshmishra21&theme=tokyonight&hide_border=true" width="80%" />
 
 </div>
-
 
 ---
 
