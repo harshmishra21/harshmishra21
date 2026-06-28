@@ -179,10 +179,9 @@ Healthcare management system — patient records, appointment scheduling, servic
 ---
 
 ### Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=1f3a5f" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra21&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
