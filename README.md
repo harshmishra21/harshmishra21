@@ -253,23 +253,15 @@ I'm always excited to collaborate on:
 
 ### Connect With Me
 
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harsh-mishra-0352a9321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-mishra-0352a9321" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30363520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30363520" height="30" width="40" /></a>
+<a href="https://fb.com/151n9jnagx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="151n9jnagx" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh_mishra_187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_mishra_187" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sgujuexyvj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sgujuexyvj" height="30" width="40" /></a>
+</p>
 
-<a href="mailto:harshmishra5906@gmail.com"><img src="https://img.shields.io/badge/Gmail-harshmishra5906%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-<a href="https://linkedin.com/in/harsh-mishra-0352a9321"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br><br>
-
-<a href="https://github.com/harshmishra21"><img src="https://img.shields.io/badge/GitHub-harshmishra21-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-
-</div>
 
 ---
 
