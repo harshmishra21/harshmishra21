@@ -179,10 +179,11 @@ Healthcare management system — patient records, appointment scheduling, servic
 
 <div align="center">
 <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra21&layout=compact&theme=tokyonight"
-      alt="Most Used Languages"
-    />
-
+  src="https://github-readme-stats-mauve-eta-81.vercel.app/api?username=harshmishra21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="GitHub Stats"
+  width="49%"
+/>
+      
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="49%" />
 
 <br><br>
