@@ -100,35 +100,7 @@ B.Tech CSE student specializing in **full stack MERN development**, with a stron
 
 ---
 
-### Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🌿 Garden Guru**
-Smart gardening platform — plant care guidance, automated watering schedules, responsive React UI, REST APIs.
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-<td width="33%" valign="top">
-
-**💼 Manvi Interiors**
-Finance management system for an interior design business — expense tracking, income management, automated reports.
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-<td width="33%" valign="top">
-
-**🏥 Medicare Pro**
-Healthcare management system — patient records, appointment scheduling, service tracking.
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-</table>
-
----
 
 ### AI / Machine Learning Expertise
 
