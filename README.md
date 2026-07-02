@@ -156,7 +156,7 @@ B.Tech CSE student specializing in **full stack MERN development**, with a stron
   width="49%"
 />
       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats-mauve-eta-81.vercel.app/api/top-langs/?username=harshmishra21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 
 <br><br>
 
