@@ -212,6 +212,16 @@ B.Tech CSE student specializing in **full stack MERN development**, with a stron
 </div>
 
 ---
+### GitHub Metrics
+
+| Metric | Focus |
+|--------|-------|
+| 🚀 Repositories | Building production-ready applications |
+| 💻 Commits | Continuous development |
+| ⭐ Open Source | Growing contributor |
+| 🔥 Streak | Consistent coding |
+| 📚 Learning | Daily improvement |
+| 🤝 Collaboration | Team-oriented development |
 
 
 ---
